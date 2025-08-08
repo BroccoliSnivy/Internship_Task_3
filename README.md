@@ -1,4 +1,4 @@
-# Internship - Day X : Vulnerability Scan with OpenVAS
+# Internship - Day 3 : Vulnerability Scan with OpenVAS
 
 Vulnerability scanning is a way to check a system for weaknesses that an attacker could exploit. In this case, I used **OpenVAS** to scan a deliberately vulnerable Windows XP virtual machine that I set up locally. Windows XP was chosen because it’s old, unsupported, and basically a playground for security testing.
 
